@@ -1,7 +1,17 @@
 {
   "expo": {
+    "name": "Currency Converter",
+    "icon": "./app/components/Logo/images/logo.png",
+    "version": "1.0.0",
+    "slug": "currency-converter",
     "sdkVersion": "27.0.0",
     "orientation": "portrait",
-    "privacy": "public"
+    "privacy": "public",
+    "ios": {
+      "bundleIdentifier": "com.anuragshas.currency-converter"
+    },
+    "android": {
+      "package": "com.anuragshas.currency-converter"
+    }
   }
 }
