@@ -4,11 +4,19 @@ React-Native, Redux, Redux-Thunk, Extended Stylesheet
 Demo: https://expo.io/@anuragshas/currencyConverter
 
 #### Screens:
-MainScreen: ![main](screenshots/blue.png =250x)
-ThemesScreen: ![theme](screenshots/themes.png =250x)
-OptionsScreen: ![option](screenshots/options.png =250x)
-CurrencySelector: ![currency](screenshots/selector.png =250x)
-Green Theme: ![green](screenshots/green.png =250x)
-Orange Theme: ![green](screenshots/orange.png =250x)
-Purple Theme: ![green](screenshots/purple.png =250x)
-KeyBoard Open: ![keyboard](screenshots/key_open.png =250x)
+MainScreen:
+<img src="screenshots/blue.png" alt="main" width="200px"/>
+ThemesScreen:
+<img src="screenshots/themes.png" alt="theme" width="200px"/>
+OptionsScreen:
+<img src="screenshots/options.png" alt="options" width="200px"/>
+CurrencySelector:
+<img src="screenshots/selector.png" alt="currency" width="200px"/>
+Green Theme:
+<img src="screenshots/green.png" alt="green" width="200px"/>
+Orange Theme:
+<img src="screenshots/orange.png" alt="orange" width="200px"/>
+Purple Theme:
+<img src="screenshots/purple.png" alt="purple" width="200px"/>
+KeyBoard Open:
+<img src="screenshots/key_open.png" alt="keyboard" width="200px"/>
