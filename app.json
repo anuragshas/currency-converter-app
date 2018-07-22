@@ -1,17 +1,22 @@
 {
   "expo": {
     "name": "Currency Converter",
-    "icon": "./app/components/Logo/images/logo.png",
+    "icon": "./app_logo.png",
     "version": "1.0.0",
-    "slug": "currency-converter",
+    "slug": "currency_converter",
     "sdkVersion": "27.0.0",
     "orientation": "portrait",
-    "privacy": "public",
+    "primaryColor": "#4f6d7a",
+    "splash": {
+      "backgroundColor": "#4f6d7a",
+      "image": "./app_logo.png",
+      "resizeMode": "contain"
+    },
     "ios": {
-      "bundleIdentifier": "com.anuragshas.currency-converter"
+      "bundleIdentifier": "com.anuragshas.currencyconverter"
     },
     "android": {
-      "package": "com.anuragshas.currency-converter"
+      "package": "com.anuragshas.currency_converter"
     }
   }
 }
